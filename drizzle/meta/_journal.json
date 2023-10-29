@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1698577362635,
+      "tag": "0000_legal_tattoo",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1698577585804,
+      "tag": "0001_giant_magma",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1698577692364,
+      "tag": "0002_daily_marrow",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1698577869781,
+      "tag": "0003_nappy_quicksilver",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1698578204033,
+      "tag": "0004_tense_sabra",
+      "breakpoints": true
+    }
+  ]
+}
