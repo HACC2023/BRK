@@ -12,7 +12,7 @@ const NavBar: React.FC<NavBarType> = ({userId}) => {
     <div className="navbar bg-primary fixed">
       <div className="flex-1">
         <a className="normal-case">
-          <Image alt="logo" src='https://www.hpu.edu/cncs/cmdr/img/cmdr-white-lockup-logo.png' width={80} />
+          <Image alt="logo" src='/logo.png' width={80} />
         </a>
       </div>
       <div className="flex-none gap-2">
