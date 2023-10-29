@@ -1,6 +1,5 @@
 import { useState } from "react";
 import Head from "next/head";
-import Link from "next/link";
 
 import { Dropzone, FileMosaic } from "@dropzone-ui/react";
 import NavBar from "~/Components/NavBar";
